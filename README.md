@@ -8,4 +8,4 @@ Tech used:
   - zod (for validation)
   - React Hook Form (for form)
 
-*Live Link* ()
+*Live Link* (https://age-calculator-03.netlify.app/)
